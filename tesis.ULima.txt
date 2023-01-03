@@ -1,0 +1,7 @@
+Asesor,"Rodríguez Rodríguez, Nadia Katherine"
+Nombre de tesista,"Chávez Martínez, Renato"
+Año de publicación,2019
+Resumen,"Determinar si un perro tiene la predisposición de desarrollar cáncer a la piel es uno de los desafíos tanto de los veterinarios como de los dueños de las mascotas. Los modelos de regresión logística y redes neuronales han sido ampliamente utilizados para realizar predicciones en el ámbito de la medicina humana, el presente estudio aborda la comparación de éstas dos técnicas para la predicción de cáncer de piel en perros. Las características que se han analizado son la edad, el sexo, raza, exposición al sol, albinismo y la aparición de dermatitis. Dichas características fueron validadas por el método de coeficiente de correlación y el análisis de componente principal. Los resultados obtenidos demostraron que la red neuronal backpropagation con validación cruzada supera al modelo de regresión logística. El valor de predicción generado por la red neuronal fue de 89.6% mientras que la regresión logística obtuvo un 84%."
+Insitución,Universidad de Lima
+Titulo de la tesis,Comparación entre regresión logística y redes neuronales para predecir cáncer de piel en perros
+Grado,Bachiller en Ingeniería de Sistemas
